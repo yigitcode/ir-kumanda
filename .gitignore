@@ -1,0 +1,17 @@
+# Local downloads and build outputs
+dist/
+ir-kopru/build/
+ir-kopru/out/
+
+# Signing material never goes into the repo
+*.jks
+*.keystore
+*.p12
+key.properties
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db

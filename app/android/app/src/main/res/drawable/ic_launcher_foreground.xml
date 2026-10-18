@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A remote with IR waves above it; drawn inside the 66 dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#E8EBF0"
+        android:pathData="M48,36h12a6,6 0,0 1,6 6v32a6,6 0,0 1,-6 6h-12a6,6 0,0 1,-6 -6v-32a6,6 0,0 1,6 -6z" />
+    <path
+        android:fillColor="#E5484D"
+        android:pathData="M51.8,43a2.2,2.2 0,1 0,4.4 0a2.2,2.2 0,1 0,-4.4 0z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#151920"
+        android:strokeWidth="2"
+        android:pathData="M48,56a6,6 0,1 0,12 0a6,6 0,1 0,-12 0z" />
+    <path
+        android:fillColor="#151920"
+        android:pathData="M52,56a2,2 0,1 0,4 0a2,2 0,1 0,-4 0z" />
+    <path
+        android:fillColor="#151920"
+        android:pathData="M47.4,68a1.6,1.6 0,1 0,3.2 0a1.6,1.6 0,1 0,-3.2 0zM52.4,68a1.6,1.6 0,1 0,3.2 0a1.6,1.6 0,1 0,-3.2 0zM57.4,68a1.6,1.6 0,1 0,3.2 0a1.6,1.6 0,1 0,-3.2 0zM47.4,73a1.6,1.6 0,1 0,3.2 0a1.6,1.6 0,1 0,-3.2 0zM52.4,73a1.6,1.6 0,1 0,3.2 0a1.6,1.6 0,1 0,-3.2 0zM57.4,73a1.6,1.6 0,1 0,3.2 0a1.6,1.6 0,1 0,-3.2 0z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4C8DFF"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:pathData="M49.76,31.76A6,6 0,0 1,58.24 31.76M46.93,28.93A10,10 0,0 1,61.07 28.93" />
+</vector>
